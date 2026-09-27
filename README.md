@@ -123,7 +123,7 @@ terraform apply -var="anthropic_api_key=$ANTHROPIC_API_KEY"
 
 ## About Me
 
-Senior Data/AI Engineer with 10+ years across .NET/C#, Python, data
+Senior Software Engineer with 10+ years across .NET/C#, Python, data
 engineering, and cloud platforms (AWS, Azure, GCP), including RAG systems,
 LLM integration, and enterprise integration work.
 
