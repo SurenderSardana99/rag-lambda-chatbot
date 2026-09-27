@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+build/
+*.zip
+index/*.faiss
+index/*.meta.npy
+.terraform/
+*.tfstate
+*.tfstate.backup
+.DS_Store
